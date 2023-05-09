@@ -1,18 +1,18 @@
 {
   "data": {
-    "ParaID": 2000,
+    "ParaID": 4237,
     "Project Name": "ewx",
     "SS58 Prefix": "",
     "Logo": "../../assets/images/ewx.png",
     "Cover": "",
-    "Description (en)": "",
+    "Description (en)": "Energy web X",
     "Description (zh)": "",
-    "Auction Reward & Reward Vesting Schedule (en)": "<LEAVE HERE A LINK OR EMPTY>",
-    "Auction Reward & Reward Vesting Schedule (zh)": "<LEAVE HERE A LINK OR EMPTY>",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
     "Website Link": "https://www.energyweb.org/",
     "Twitter Link": "https://twitter.com/energywebx",
     "Telegram Link": "https://t.me/EnergyWebAnnouncements",
-    "Discord Link": "<LEAVE HERE A LINK OR EMPTY>",
+    "Discord Link": "https://discord.com/invite/psraNwqGqp",
     "Medium Link": "https://medium.com/@energywebx",
     "Github Link": "https://github.com/energywebfoundation",
     "Owner account": ""
