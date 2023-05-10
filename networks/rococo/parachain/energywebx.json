@@ -1,0 +1,20 @@
+{
+  "data": {
+    "ParaID": 4237,
+    "Project Name": "ewx",
+    "SS58 Prefix": "",
+    "Logo": "../../assets/images/ewx.png",
+    "Cover": "",
+    "Description (en)": "Energy Web X is a public, substrate-based blockchain that is purpose-built to run Worker Node Networks in support of enterprise energy-sector applications.",
+    "Description (zh)": "",
+    "Auction Reward & Reward Vesting Schedule (en)": "",
+    "Auction Reward & Reward Vesting Schedule (zh)": "",
+    "Website Link": "https://www.energyweb.org/",
+    "Twitter Link": "https://twitter.com/energywebx",
+    "Telegram Link": "https://t.me/EnergyWebAnnouncements",
+    "Discord Link": "https://discord.com/invite/psraNwqGqp",
+    "Medium Link": "https://medium.com/@energywebx",
+    "Github Link": "https://github.com/energywebfoundation",
+    "Owner account": "5CfY8x6DZBn7KsgvxZbHHfSjDwxBqsa3cUi6LLLy39qLdToT"
+  }
+}
